@@ -6,7 +6,7 @@ Welcome to the To-Do List Debugging Exercise! This project is a simple to-do lis
 
 ## Your Goal
 
-Your task is to identify and fix these bugs to get the application working correctly. Thereâ€™s no need to add or delete files; simply debug the existing code.
+Your task is to identify and fix these bugs to get the application working correctly. There's no need to add or delete files; simply debug the existing code.
 
 ## Rules
 
@@ -92,9 +92,8 @@ The backend should now be running on `http://localhost:8080`.
 
 - **Documentation**: Add inline comments and documentation to improve code maintainability.
 - **Continuous Integration**: Set up CI/CD pipelines to automate testing and deployment.
-- **Performance Optimization**: Analyze and optimize the applicationâ€™s performance.
+- **Performance Optimization**: Analyze and optimize the application's performance.
 - **State Management**: Implement a state management library like Redux or Context API for better state handling in the frontend.
-- **Modularization**: Break down larger components into smaller, reusable pieces.
 
 ## Getting Started
 
@@ -131,7 +130,7 @@ Open your browser and navigate to `http://localhost:3000`.
 ## Tips for Debugging
 
 - **Check the Console**: Look for error messages in the browser console and the terminal where the backend is running.
-- **Read Error Messages Carefully**: They often provide clues about whatâ€™s wrong and where to look.
+- **Read Error Messages Carefully**: They often provide clues about what's wrong and where to look.
 - **Use Debugging Tools**:
   - **Frontend**: Use browser developer tools to inspect elements, debug JavaScript, and monitor network requests.
   - **Backend**: Use a debugger or add console logs to trace the execution flow.
