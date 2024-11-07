@@ -1,5 +1,4 @@
 import React from "react";
-import { BsTrash } from "react-icons/bs";
 import axios from "axios";
 import { Task } from "../models/Task";
 import { AiOutlineClose } from "react-icons/ai";

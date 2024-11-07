@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { BsPlusCircle } from "react-icons/bs";
 import { AiOutlinePlus } from "react-icons/ai";
 
 import axios from "axios";
@@ -10,7 +9,7 @@ interface AddTaskProps {
 }
 
 const AddTask: React.FC<AddTaskProps> = ({ setTasks }) => {
-  const [title, setTitle] = useState<string>("");
+  var [title, setTitle] = useState<string>("");
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();

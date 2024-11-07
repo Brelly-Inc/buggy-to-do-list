@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the To-Do List Debugging Exercise! This project is a simple to-do list application built with a React frontend and an Express backend. However, there are 7 intentional bugs spread across the frontend and backend code.
+Welcome to the To-Do List Debugging Exercise! This project is a simple to-do list application built with a React frontend and an Express backend. However, there are 9 intentional bugs spread across the frontend and backend code.
 
 ## Your Goal
 
